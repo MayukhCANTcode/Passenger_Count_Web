@@ -1,19 +1,37 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🧮 Passenger Counter App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple web app built while following the Scrimba JavaScript course.
+It allows users to count the number of passengers and save the total count.
+This project helped me understand DOM manipulation, event listeners, and basic JavaScript logic.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🚀 Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Increment the passenger count with a button click
 
-Happy Coding!
+Save the current count and reset for the next entry
+
+Display previous counts
+
+Minimal and responsive design
+
+🛠️ Tech Stack
+
+HTML – structure of the app
+
+CSS – styling for layout and appearance
+
+JavaScript – logic and interactivity
+
+📸 Preview
+
+(Add a screenshot here if you want — e.g., ![App Screenshot](screenshot.png))
+
+📚 What I Learned
+
+How to connect JavaScript with HTML using document.getElementById()
+
+How to handle click events with functions
+
+How to update the DOM dynamically
+
+Basics of variable manipulation and string concatenation
